@@ -1,7 +1,8 @@
 ![I am GitHub Frontend Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFjCTimWCAdxw/profile-displaybackgroundimage-shrink_350_1400/B4EZhVusFCGcAY-/0/1753784961118?e=1756944000&v=beta&t=4d1wQSo3zjJNH7olzrSPkI5WEJybVLwg0Ph_dtkWTDs)
 
 ### Hi there 👋, my name is Adib Hassan
-#### I am aspiring to be a Frontend Web Developer
+
+#### I am aspiring to be a Web Developer
 
 
 - 🌱 I’m currently learning MERN Stack 
@@ -21,7 +22,6 @@ Skills: REACT / JS / HTML / CSS / Tailwind
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/codebyadib/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/codebyadib)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=codebyadib)  
 
