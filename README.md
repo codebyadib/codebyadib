@@ -1,14 +1,12 @@
 ![I am GitHub Frontend Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFjCTimWCAdxw/profile-displaybackgroundimage-shrink_350_1400/B4EZhVusFCGcAY-/0/1753784961118?e=1756944000&v=beta&t=4d1wQSo3zjJNH7olzrSPkI5WEJybVLwg0Ph_dtkWTDs)
 
 ### Hi there 👋, my name is Adib Hassan
-#### I am GitHub Frontend Web Developer
+#### I am aspiring to be a Frontend Web Developer
 
-
-I am a passionate web developer...
-
-Skills: REACT / JS / HTML / CSS / Tailwind 
 
 - 🌱 I’m currently learning MERN Stack 
+
+Skills: REACT / JS / HTML / CSS / Tailwind 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codebyadib)  
