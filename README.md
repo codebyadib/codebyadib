@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Cover Image" />
+  <img src="https://images.openai.com/thumbnails/url/sC5303icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5yL_DPdHWqKizwCnd2dc4uM3cL0k3UNXD0NHYOSfLy8Al0MS_JSnHzNPLI8QtLys1JyTDNDHZxS8xxD1QrBgD3dijd" alt="Cover Image" />
 </p>
 
 # 👋 Hi, I'm Adib Hassan
