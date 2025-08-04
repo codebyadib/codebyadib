@@ -1,27 +1,32 @@
-![I am GitHub Frontend Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFjCTimWCAdxw/profile-displaybackgroundimage-shrink_350_1400/B4EZhVusFCGcAY-/0/1753784961118?e=1756944000&v=beta&t=4d1wQSo3zjJNH7olzrSPkI5WEJybVLwg0Ph_dtkWTDs)
-
-### Hi there 👋, my name is Adib Hassan
-
-#### I am aspiring to be a Web Developer
-
-
-- 🌱 I’m currently learning MERN Stack 
-
-Skills: REACT / JS / HTML / CSS / Tailwind 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codebyadib)  
+# 👋 Hi, I'm Adib Hassan
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+🎯 An aspiring **Full-Stack Web Developer** focused on the **MERN stack**  
+💻 Currently learning **React.js**, building real-world projects to sharpen my skills  
+🚀 Passionate about clean UI, fast performance, and scalable backend systems  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codebyadib)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyadib)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech I'm Working With:
+- 💡 **Frontend:** HTML, CSS, JavaScript, React.js
+- ⚙️ **Backend:** Learning Node.js, Express.js
+- 🗄️ **Database:** MongoDB (soon)
+- 🌐 **Tools:** Git, GitHub, VS Code
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyadib&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/codebyadib/contributions?format=svg&private=true)  
+### 📌 Goals:
+- 🔭 Build a full MERN stack portfolio
+- 🌱 Contribute to open-source
+- 📚 Keep learning and building every day
 
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=codebyadib)  
+### 📫 Let’s Connect:
+- 🌐 [Portfolio](https://your-portfolio-link.com) (if ready)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- 🐙 [GitHub](https://github.com/codebyadib)
 
+---
+
+> “Consistency beats talent. Keep building.”
