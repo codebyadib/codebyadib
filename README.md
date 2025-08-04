@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.openai.com/thumbnails/url/sC5303icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5yL_DPdHWqKizwCnd2dc4uM3cL0k3UNXD0NHYOSfLy8Al0MS_JSnHzNPLI8QtLys1JyTDNDHZxS8xxD1QrBgD3dijd" alt="Cover Image" width="100%" height="300px"/>
+  <img src="https://images.openai.com/thumbnails/url/sC5303icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5yL_DPdHWqKizwCnd2dc4uM3cL0k3UNXD0NHYOSfLy8Al0MS_JSnHzNPLI8QtLys1JyTDNDHZxS8xxD1QrBgD3dijd" alt="Cover Image" width="100%" height="150px"/>
 </p>
 
 # 👋 Hi, I'm Adib Hassan
