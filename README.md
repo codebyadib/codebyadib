@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graffersid.com/wp-content/uploads/2023/08/MERN-Stack-scaled-1980x990.webp" alt="Cover Image" width="100%" height="100%"/>
+  <img src="https://graffersid.com/wp-content/uploads/2023/08/MERN-Stack-scaled-1980x990.webp" alt="Cover Image" width="80%" height="80%"/>
 </p>
 
 # 👋 Hi, I'm Adib Hassan
