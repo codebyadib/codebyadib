@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Cover Image" width="68%" height="300px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Cover Image" width="68%" height="290px"/>
 </p>
 
 # 👋 Hi, I'm Adib Hassan
@@ -29,7 +29,8 @@
 - 🌐 [Portfolio](https://your-portfolio-link.com) (not ready)
 - 💼 [LinkedIn](https://www.linkedin.com/in/codebyadib)
 - 🐙 [GitHub](https://github.com/codebyadib)
+- FB: [Facebook](https://facebook.com/codebyadib)
 
 ---
 
-> “Consistency beats talent. Keep building.”
+> “Consistency beats talent. Keep building with me.”
