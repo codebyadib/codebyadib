@@ -33,7 +33,7 @@
 
 
 ## 📬 Contact
-- [Email: adibhassan.dev@gmail.com](mailto:adibhassan.dev@gmail.com)
+- [Email: adibhassan.dev@gmail.com](mailto:dev.codebyadib@gmail.com)
 
 ---
 
