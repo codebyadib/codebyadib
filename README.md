@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Cover Image" width="85%" height="300px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Cover Image" width="85%" height="295px"/>
 </p>
 
 # 👋 Hi, I'm Adib Hassan
@@ -29,8 +29,11 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/codebyadib)
 - 🐙 [Facebook](https://facebook.com/codebyadibdev)
 - 🤖 [GitHub](https://github.com/codebyadib)
-- 🗃️ Gmail: adibhassan.dev@gmail.com
 - 🌐 [Portfolio](#) (not ready)
+
+
+## 📬 Contact
+- [Email: adibhassan.dev@gmail.com](mailto:adibhassan.dev@gmail.com)
 
 ---
 
