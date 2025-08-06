@@ -31,7 +31,8 @@
 - 🤖 [GitHub](https://github.com/codebyadib)
 - 🌐 [Portfolio](#) (not ready)
 
-
+## 📬 Contact
+- [Email: dev.codebyadib@gmail.com](mailto:dev.codebyadib@gmail.com)
 
 
 ---
