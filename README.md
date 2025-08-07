@@ -60,12 +60,15 @@ I'm a self-taught developer from Bangladesh working to transition into tech with
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyadib&show_icons=true&theme=tokyonight" alt="Adib's GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=codebyadib&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyadib&show_icons=true&theme=tokyonight" alt="Adib's GitHub Stats" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyadib&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=codebyadib&theme=tokyonight" alt="GitHub Streak" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyadib&layout=compact&theme=tokyonight" alt="Top Languages" width="60%"/>
 </p>
 
 ---
